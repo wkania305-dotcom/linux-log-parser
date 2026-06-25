@@ -16,5 +16,5 @@ def analyze_logs(file_path):
     print("=========================================")
     print(f"Analysis complete. Total critical issues found: {critical_errors}")
 
-# Example usage (simulated log file)
+# Example usage 
 analyze_logs("server.log")
